@@ -8,7 +8,7 @@
 - MSSV: 2A202602903
 - Email: giap8547813@gmail.com
 - Link repo (fork): https://github.com/Giappp/K4-L3L4-DAY23-NguyenVanGiap-2A202602903-SensorFusion.git
-- Commit hash nộp (`git rev-parse HEAD`): Chưa chốt; HEAD khi viết báo cáo là `30b4537411765934cae64a9b139a9bcd4cfdad4a`. Cần lấy hash sau khi commit báo cáo và lần chạy cuối để nộp LMS.
+- Commit hash nộp (`git rev-parse HEAD`): d5f405ef3fd552c78a5aa52a34fe5c75a5333aaf
 
 ## Tóm tắt kết quả
 
